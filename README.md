@@ -1,0 +1,2 @@
+# WeekEndRestAssuredFramework
+WeekEnd practice
